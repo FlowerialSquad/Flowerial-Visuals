@@ -110,4 +110,4 @@
 Вставьте следующую строчку кода в ваш Luau-экзекутор:
 
 ```lua
-loadstring(game:HttpGet("[https://raw.githubusercontent.com/ВАШ_НИКНЕЙМ/РЕПОЗИТОРИЙ/main/flowerial.lua](https://raw.githubusercontent.com/ВАШ_НИКНЕЙМ/РЕПОЗИТОРИЙ/main/flowerial.lua)"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/FlowerialSquad/Flowerial-Visuals/refs/heads/main/Flowerial%20(pre-alpha)"))()
